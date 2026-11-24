@@ -1,4 +1,0 @@
-﻿streamlit
-pulp
-numpy
-matplotlib
