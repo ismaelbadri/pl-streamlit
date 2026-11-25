@@ -4,7 +4,7 @@ import pulp
 import streamlit as st
 
 st.set_page_config(page_title="Programmation Linéaire - PuLP", layout="wide")
-st.title("Résolution d'un PL à 2 variables (PuLP + Approche graphique)")
+st.title("Résolution d'un PL à 2 variables (Ismael Badri)")
 
 # --- 1. Paramètres dans la barre latérale ---
 st.sidebar.header("Fonction objectif : Z = c1*x1 + c2*x2")
